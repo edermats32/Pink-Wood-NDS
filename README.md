@@ -31,4 +31,5 @@ Source Repo: https://github.com/anthonycaccese/techdweeb-es-de
 
 ### WOOD R4 MENU Theme
 From: https://themes.flashcarts.net/akmenu/NDS%20OS  
+I just made it pink.  
 Original contribution intact in `readme.txt`.
