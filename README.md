@@ -15,9 +15,10 @@ What? You didn't?
 1. https://github.com/flashcarts/AOS/#setup
 2. Download this repo as a zip.
 3. Extract the zip to your sd-card, override the files.
-4. Boot `NDS - WoodR4`
-5. Go into settings, change theme to `NDS OS Pink`
-6. Success?
+4. You can remove the `README.md` from the root of you sd-card if you want.
+5. Boot `NDS - WoodR4`
+6. Go into settings, change theme to `NDS OS Pink`
+7. Success?
 
 ## Credits / Theft
 These are the places i stole the assets from:
