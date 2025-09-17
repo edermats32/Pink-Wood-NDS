@@ -16,9 +16,10 @@ What? You didn't?
 2. Download this repo as a zip.
 3. Extract the zip to your sd-card, override the files.
 4. You can remove the `README.md` from the root of you sd-card if you want.
-5. Boot `NDS - WoodR4`
-6. Go into settings, change theme to `NDS OS Pink`
-7. Success?
+5. Assemble sd-card to flashcart and put it in your DS. 
+6. From `AOS` boot `NDS - WoodR4`
+7. Go into settings, change theme to `NDS OS Pink`
+8. Success?
 
 ## Credits / Theft
 These are the places i stole the assets from:
