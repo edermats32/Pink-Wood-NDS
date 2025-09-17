@@ -14,8 +14,8 @@ You figure it out...
 What? You didn't?
 1. Follow: https://github.com/flashcarts/AOS/#setup
 2. Download my repo as a zip.
-3. Extract the zip to your sd-card, override the files.
-4. You can remove the `README.md` from the root of you sd-card if you want.
+3. Open the zip and look for the folder `__rpg`.
+4. Extract that folder (the folder itself) to the root of you sd-card, override the files.
 5. Assemble sd-card to flashcart and put it in your DS. 
 6. From `AOS` boot `NDS - WoodR4`
 7. Go into settings, change theme to `NDS OS Pink`
