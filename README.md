@@ -12,8 +12,8 @@ Pink themes for AOS and Wood R4 Menu to emulate the design of the official DS Li
 ## Installation
 You figure it out...  
 What? You didn't?
-1. https://github.com/flashcarts/AOS/#setup
-2. Download this repo as a zip.
+1. Follow: https://github.com/flashcarts/AOS/#setup
+2. Download my repo as a zip.
 3. Extract the zip to your sd-card, override the files.
 4. You can remove the `README.md` from the root of you sd-card if you want.
 5. Assemble sd-card to flashcart and put it in your DS. 
