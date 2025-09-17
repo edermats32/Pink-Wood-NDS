@@ -1,5 +1,5 @@
 # Pink-Wood-NDS
-Pink themes for AOS and Wood R4 Menu designed to emulate the design of the official DS Lite menu.
+Pink themes for AOS and Wood R4 Menu to emulate the design of the official DS Lite menu.
 
 ## Preview
 ### AOS
